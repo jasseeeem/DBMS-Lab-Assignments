@@ -1,0 +1,28 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+} */
+
+.form-group.col-md-4 {
+    display: flex;
+    align-items: center;
+}
+
+label {
+    display: block;
+    float: left;
+}
+  
+.btn-huge {
+    height: 200px;
+    width: 400px;
+    border-radius: 20px;
+    border: 4px rgb(146, 146, 146);
+    border-style: dashed;
+    background-color: rgb(203, 224, 231);
+}
+
+.bi-plus-circle {
+    size: 200px;
+}
