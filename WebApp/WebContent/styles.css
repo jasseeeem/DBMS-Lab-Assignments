@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.form-center {
+	display: flex;
+	justify-content: center;
+}
+
+.form-border {
+	margin: 30px;
+}
+
+a {
+	text-decoration: none;
+}
